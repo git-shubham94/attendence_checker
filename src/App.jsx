@@ -62,13 +62,7 @@ function AttendanceCalculator() {
             <p className="text-muted small">Advanced Academic Performance Analytics</p>
           </div>
           
-          <Button variant="outline-dark" className="d-flex align-items-center mb-4">
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-clock-history me-2" viewBox="0 0 16 16">
-              <path d="M8.515 1.019A7 7 0 0 0 8 1V0a8 8 0 0 1 .585.088zM6.646 1.954a7 7 0 0 1-.774 4.125l-.75-.138a8 8 0 0 0 .858-4.576zM4.78 3.522a7 7 0 0 1-1.74 3.75l-.94-.347a8 8 0 0 0 1.965-4.227zM3.109 5.56a7 7 0 0 1-.741 2.376l-.922.382a8 8 0 0 0 .83-2.618zM2.083 7.646a7 7 0 0 1-.167.625h-1a8 8 0 0 0 .18-1.554zM2.08 8.354a7 7 0 0 1 .167.625h-1a8 8 0 0 0-.18 1.554zM3.109 10.44a7 7 0 0 1 .741-2.376l.922-.382a8 8 0 0 0-.83 2.618zM4.78 12.478a7 7 0 0 1 1.74-3.75l.94.347a8 8 0 0 0-1.965 4.227zM6.646 14.046a7 7 0 0 1 .774-4.125l.75.138a8 8 0 0 0-.858 4.576zM8.515 14.981A7 7 0 0 0 8 15V16a8 8 0 0 1-.585-.088z"/>
-              <path d="M8 3.5a.5.5 0 0 0-1 0v4a.5.5 0 0 0 .5.5h3.5a.5.5 0 0 0 0-1H8.5V3.5z"/>
-            </svg>
-            Show History
-          </Button>
+          
 
           <Row className="g-4">
             <Col xs={12} md={6}>
