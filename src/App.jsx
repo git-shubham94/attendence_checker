@@ -58,7 +58,7 @@ function AttendanceCalculator() {
       <Card className="shadow-lg p-4" style={{ maxWidth: '600px', width: '100%' }}>
         <Card.Body>
           <div className="text-center mb-4">
-            <h2 className="fw-bold mb-0">L-T-P-S Calculator </h2>
+            <h2 className="fw-bold mb-0">Overall Attendance</h2>
             
           </div>
           
