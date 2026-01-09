@@ -1,4 +1,4 @@
-Attendance Calculator 📊
+Attendance Calculator For KL Students📊
 
 A simple application to calculate student attendance percentage and determine eligibility based on minimum attendance criteria. This project helps students quickly know how many classes they need to attend to meet attendance requirements.
 
